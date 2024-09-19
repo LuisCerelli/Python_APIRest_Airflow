@@ -1,0 +1,27 @@
+[2024-09-19T18:15:50.367+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-19T18:15:50.388+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: example_kubernetes_executor.test_sharedvolume_mount manual__2024-08-23T12:11:31.454459+00:00 [queued]>
+[2024-09-19T18:15:50.395+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: example_kubernetes_executor.test_sharedvolume_mount manual__2024-08-23T12:11:31.454459+00:00 [queued]>
+[2024-09-19T18:15:50.396+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 1
+[2024-09-19T18:15:50.413+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): test_sharedvolume_mount> on 2024-08-23 12:11:31.454459+00:00
+[2024-09-19T18:15:50.436+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=67) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-09-19T18:15:50.437+0000] {standard_task_runner.py:72} INFO - Started process 74 to run task
+[2024-09-19T18:15:50.438+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'example_kubernetes_executor', 'test_sharedvolume_mount', 'manual__2024-08-23T12:11:31.454459+00:00', '--job-id', '6', '--raw', '--subdir', '/home/***/.local/lib/python3.12/site-packages/***/example_dags/example_kubernetes_executor.py', '--cfg-path', '/tmp/tmpbi_nxknf']
+[2024-09-19T18:15:50.439+0000] {standard_task_runner.py:105} INFO - Job 6: Subtask test_sharedvolume_mount
+[2024-09-19T18:15:50.531+0000] {task_command.py:467} INFO - Running <TaskInstance: example_kubernetes_executor.test_sharedvolume_mount manual__2024-08-23T12:11:31.454459+00:00 [running]> on host 060c2ffa21d4
+[2024-09-19T18:15:50.642+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='example_kubernetes_executor' AIRFLOW_CTX_TASK_ID='test_sharedvolume_mount' AIRFLOW_CTX_EXECUTION_DATE='2024-08-23T12:11:31.454459+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-23T12:11:31.454459+00:00'
+[2024-09-19T18:15:50.645+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-09-19T18:15:50.646+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-09-19T18:15:50.646+0000] {logging_mixin.py:190} INFO - Current task name:test_sharedvolume_mount state:running start_date:2024-09-19 18:15:50.389079+00:00
+[2024-09-19T18:15:50.646+0000] {logging_mixin.py:190} INFO - Dag name:example_kubernetes_executor and current dag run status:running
+[2024-09-19T18:15:50.646+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-19T18:15:50.666+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-09-19T18:15:50.675+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-19T18:15:50.675+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=example_kubernetes_executor, task_id=test_sharedvolume_mount, run_id=manual__2024-08-23T12:11:31.454459+00:00, execution_date=20240823T121131, start_date=20240919T181550, end_date=20240919T181550
+[2024-09-19T18:15:50.681+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-09-19T18:15:50.681+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-09-19T18:15:50.682+0000] {logging_mixin.py:190} INFO - Dag name:example_kubernetes_executor queued_at:2024-08-23 12:11:31.507597+00:00
+[2024-09-19T18:15:50.682+0000] {logging_mixin.py:190} INFO - Task hostname:060c2ffa21d4 operator:_PythonDecoratedOperator
+[2024-09-19T18:15:50.702+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-19T18:15:50.725+0000] {local_task_job_runner.py:240} INFO - ::endgroup::
