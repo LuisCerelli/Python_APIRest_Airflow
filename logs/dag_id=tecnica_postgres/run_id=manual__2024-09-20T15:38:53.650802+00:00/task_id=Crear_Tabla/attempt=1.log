@@ -1,0 +1,51 @@
+[2024-09-20T15:38:55.891+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-20T15:38:55.902+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tecnica_postgres.Crear_Tabla manual__2024-09-20T15:38:53.650802+00:00 [queued]>
+[2024-09-20T15:38:55.905+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tecnica_postgres.Crear_Tabla manual__2024-09-20T15:38:53.650802+00:00 [queued]>
+[2024-09-20T15:38:55.905+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 4
+[2024-09-20T15:38:55.919+0000] {taskinstance.py:2879} INFO - Executing <Task(PostgresOperator): Crear_Tabla> on 2024-09-20 15:38:53.650802+00:00
+[2024-09-20T15:38:55.939+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=450) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-09-20T15:38:55.937+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'tecnica_postgres', 'Crear_Tabla', 'manual__2024-09-20T15:38:53.650802+00:00', '--job-id', '33', '--raw', '--subdir', 'DAGS_FOLDER/tecnica_postgres.py', '--cfg-path', '/tmp/tmpzdma90p5']
+[2024-09-20T15:38:55.945+0000] {standard_task_runner.py:72} INFO - Started process 452 to run task
+[2024-09-20T15:38:55.946+0000] {standard_task_runner.py:105} INFO - Job 33: Subtask Crear_Tabla
+[2024-09-20T15:38:56.129+0000] {task_command.py:467} INFO - Running <TaskInstance: tecnica_postgres.Crear_Tabla manual__2024-09-20T15:38:53.650802+00:00 [running]> on host ce23a4eb4cec
+[2024-09-20T15:38:56.248+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='tecnica_postgres' AIRFLOW_CTX_TASK_ID='Crear_Tabla' AIRFLOW_CTX_EXECUTION_DATE='2024-09-20T15:38:53.650802+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-20T15:38:53.650802+00:00'
+[2024-09-20T15:38:56.256+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-09-20T15:38:56.256+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-09-20T15:38:56.257+0000] {logging_mixin.py:190} INFO - Current task name:Crear_Tabla state:running start_date:2024-09-20 15:38:55.902444+00:00
+[2024-09-20T15:38:56.257+0000] {logging_mixin.py:190} INFO - Dag name:tecnica_postgres and current dag run status:running
+[2024-09-20T15:38:56.258+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-20T15:38:56.260+0000] {sql.py:282} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS tecnica_ml(
+                id VARCHAR(30),
+                site_id VARCHAR(30),
+                title VARCHAR(50),
+                price VARCHAR(10),
+                sold_quantity VARCHAR(20),
+                thumbnail VARCHAR(50),
+                created_date VARCHAR(8),
+                primary key(id,created_date)
+            )
+[2024-09-20T15:38:56.265+0000] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2024-09-20T15:38:56.285+0000] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2024-09-20T15:38:56.298+0000] {sql.py:509} INFO - Running statement: 
+            CREATE TABLE IF NOT EXISTS tecnica_ml(
+                id VARCHAR(30),
+                site_id VARCHAR(30),
+                title VARCHAR(50),
+                price VARCHAR(10),
+                sold_quantity VARCHAR(20),
+                thumbnail VARCHAR(50),
+                created_date VARCHAR(8),
+                primary key(id,created_date)
+            ), parameters: None
+[2024-09-20T15:38:56.307+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-20T15:38:56.307+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=tecnica_postgres, task_id=Crear_Tabla, run_id=manual__2024-09-20T15:38:53.650802+00:00, execution_date=20240920T153853, start_date=20240920T153855, end_date=20240920T153856
+[2024-09-20T15:38:56.312+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-09-20T15:38:56.312+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-09-20T15:38:56.312+0000] {logging_mixin.py:190} INFO - Dag name:tecnica_postgres queued_at:2024-09-20 15:38:53.700918+00:00
+[2024-09-20T15:38:56.312+0000] {logging_mixin.py:190} INFO - Task hostname:ce23a4eb4cec operator:PostgresOperator
+[2024-09-20T15:38:56.339+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-20T15:38:56.355+0000] {taskinstance.py:3891} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-20T15:38:56.357+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

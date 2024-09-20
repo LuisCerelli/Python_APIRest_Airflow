@@ -1,0 +1,1074 @@
+[2024-09-20T14:36:32.958+0000] {processor.py:186} INFO - Started process (PID=3145) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:36:32.959+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:36:32.963+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:36:32.963+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:36:32.967+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:36:32.980+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.028 seconds
+[2024-09-20T14:37:04.018+0000] {processor.py:186} INFO - Started process (PID=3209) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:37:04.020+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:37:04.024+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:37:04.024+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:37:04.028+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:37:04.042+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.033 seconds
+[2024-09-20T14:37:34.943+0000] {processor.py:186} INFO - Started process (PID=3273) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:37:34.945+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:37:34.949+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:37:34.948+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:37:34.953+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:37:34.967+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.034 seconds
+[2024-09-20T14:38:06.007+0000] {processor.py:186} INFO - Started process (PID=3337) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:38:06.009+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:38:06.013+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:38:06.013+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:38:06.017+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:38:06.035+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.046 seconds
+[2024-09-20T14:38:36.101+0000] {processor.py:186} INFO - Started process (PID=3402) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:38:36.103+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:38:36.116+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:38:36.115+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:38:36.120+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:38:36.134+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.041 seconds
+[2024-09-20T14:39:06.414+0000] {processor.py:186} INFO - Started process (PID=3465) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:39:06.416+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:39:06.419+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:39:06.418+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:39:06.425+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:39:06.439+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.034 seconds
+[2024-09-20T14:39:37.025+0000] {processor.py:186} INFO - Started process (PID=3529) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:39:37.026+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:39:37.030+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:39:37.029+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:39:37.033+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:39:37.060+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.044 seconds
+[2024-09-20T14:40:07.261+0000] {processor.py:186} INFO - Started process (PID=3593) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:40:07.263+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:40:07.266+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:40:07.266+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:40:07.269+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:40:07.280+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.025 seconds
+[2024-09-20T14:40:37.720+0000] {processor.py:186} INFO - Started process (PID=3656) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:40:37.723+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:40:37.732+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:40:37.731+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:40:37.738+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:40:37.750+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.039 seconds
+[2024-09-20T14:41:08.727+0000] {processor.py:186} INFO - Started process (PID=3720) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:41:08.728+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:41:08.730+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:41:08.730+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:41:08.733+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:41:08.746+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.024 seconds
+[2024-09-20T14:41:38.885+0000] {processor.py:186} INFO - Started process (PID=3784) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:41:38.887+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:41:38.891+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:41:38.890+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:41:38.895+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:41:38.912+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.040 seconds
+[2024-09-20T14:42:09.929+0000] {processor.py:186} INFO - Started process (PID=3848) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:42:09.935+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:42:09.952+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:42:09.951+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:42:09.957+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:42:09.975+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.054 seconds
+[2024-09-20T14:42:40.861+0000] {processor.py:186} INFO - Started process (PID=3912) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:42:40.863+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:42:40.875+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:42:40.873+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:42:40.879+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:42:40.904+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.051 seconds
+[2024-09-20T14:43:11.514+0000] {processor.py:186} INFO - Started process (PID=3976) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:43:11.523+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:43:11.534+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:43:11.533+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:43:11.539+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:43:11.568+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.075 seconds
+[2024-09-20T14:43:41.835+0000] {processor.py:186} INFO - Started process (PID=4045) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:43:41.837+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:43:41.841+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:43:41.841+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:43:41.845+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:43:41.864+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.051 seconds
+[2024-09-20T14:44:12.214+0000] {processor.py:186} INFO - Started process (PID=4109) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:12.221+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:44:12.229+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:44:12.228+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:12.234+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:12.250+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.048 seconds
+[2024-09-20T14:44:27.042+0000] {processor.py:186} INFO - Started process (PID=4119) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:27.047+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:44:27.052+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:44:27.052+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:27.066+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:44:27.060+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:44:27.069+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:27.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.129 seconds
+[2024-09-20T14:44:57.828+0000] {processor.py:186} INFO - Started process (PID=4183) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:57.831+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:44:57.835+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:44:57.834+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:57.845+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:44:57.843+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:44:57.849+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:44:57.875+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.062 seconds
+[2024-09-20T14:45:28.672+0000] {processor.py:186} INFO - Started process (PID=4247) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:45:28.679+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:45:28.683+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:45:28.683+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:45:28.696+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:45:28.690+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:45:28.697+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:45:28.724+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.074 seconds
+[2024-09-20T14:45:58.938+0000] {processor.py:186} INFO - Started process (PID=4310) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:45:58.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:45:58.945+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:45:58.945+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:45:58.958+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:45:58.955+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:45:58.960+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:45:58.976+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.050 seconds
+[2024-09-20T14:46:29.978+0000] {processor.py:186} INFO - Started process (PID=4374) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:46:29.982+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:46:29.986+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:46:29.985+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:46:29.996+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:46:29.993+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:46:29.998+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:46:30.015+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.059 seconds
+[2024-09-20T14:47:00.720+0000] {processor.py:186} INFO - Started process (PID=4438) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:47:00.722+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:47:00.727+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:47:00.727+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:47:00.736+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:47:00.733+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:47:00.737+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:47:00.765+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.065 seconds
+[2024-09-20T14:47:31.619+0000] {processor.py:186} INFO - Started process (PID=4502) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:47:31.622+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:47:31.625+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:47:31.625+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:47:31.632+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:47:31.630+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:47:31.635+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:47:31.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.066 seconds
+[2024-09-20T14:48:01.874+0000] {processor.py:186} INFO - Started process (PID=4566) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:48:01.877+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:48:01.880+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:48:01.880+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:48:01.888+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:48:01.886+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:48:01.890+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:48:01.909+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.050 seconds
+[2024-09-20T14:48:32.466+0000] {processor.py:186} INFO - Started process (PID=4630) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:48:32.468+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:48:32.474+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:48:32.473+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:48:32.486+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:48:32.481+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:48:32.488+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:48:32.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.081 seconds
+[2024-09-20T14:49:03.593+0000] {processor.py:186} INFO - Started process (PID=4694) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:03.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:49:03.600+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:49:03.600+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:03.619+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:49:03.612+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:49:03.623+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:03.660+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.091 seconds
+[2024-09-20T14:49:34.243+0000] {processor.py:186} INFO - Started process (PID=4758) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:34.250+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:49:34.256+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:49:34.255+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:34.266+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:49:34.261+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args=default_args,
+                 ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:49:34.269+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:34.308+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.078 seconds
+[2024-09-20T14:49:53.477+0000] {processor.py:186} INFO - Started process (PID=4817) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:53.479+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:49:53.480+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:49:53.480+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:53.491+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:49:53.486+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args = default_args,
+                   ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T14:49:53.494+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:49:53.509+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.035 seconds
+[2024-09-20T14:50:21.952+0000] {processor.py:186} INFO - Started process (PID=4876) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:50:21.954+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:50:21.958+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:21.958+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:50:21.973+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:50:22.080+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:22.080+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:tecnica_postgres
+[2024-09-20T14:50:22.085+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:22.085+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:tecnica_postgres
+[2024-09-20T14:50:22.087+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:22.087+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:tecnica_postgres
+[2024-09-20T14:50:22.087+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:22.087+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:50:22.095+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:22.095+0000] {dag.py:3234} INFO - Creating ORM DAG for tecnica_postgres
+[2024-09-20T14:50:22.103+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:22.103+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:50:22.116+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.172 seconds
+[2024-09-20T14:50:53.137+0000] {processor.py:186} INFO - Started process (PID=4940) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:50:53.139+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:50:53.145+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:53.144+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:50:53.179+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:50:53.304+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:53.304+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:50:53.331+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:50:53.331+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:50:53.351+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.228 seconds
+[2024-09-20T14:51:24.354+0000] {processor.py:186} INFO - Started process (PID=5004) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:51:24.357+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:51:24.364+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:51:24.364+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:51:24.390+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:51:24.427+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:51:24.426+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:51:24.456+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:51:24.456+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:51:24.468+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.136 seconds
+[2024-09-20T14:51:55.365+0000] {processor.py:186} INFO - Started process (PID=5068) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:51:55.367+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:51:55.371+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:51:55.370+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:51:55.384+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:51:55.418+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:51:55.418+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:51:55.436+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:51:55.436+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:51:55.445+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.089 seconds
+[2024-09-20T14:52:25.542+0000] {processor.py:186} INFO - Started process (PID=5132) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:52:25.544+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:52:25.547+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:52:25.546+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:52:25.556+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:52:25.570+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:52:25.570+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:52:25.601+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:52:25.601+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:52:25.609+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.074 seconds
+[2024-09-20T14:52:55.892+0000] {processor.py:186} INFO - Started process (PID=5196) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:52:55.894+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:52:55.899+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:52:55.899+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:52:55.912+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:52:55.927+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:52:55.927+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:52:55.944+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:52:55.944+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:52:55.954+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.081 seconds
+[2024-09-20T14:53:26.088+0000] {processor.py:186} INFO - Started process (PID=5259) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:53:26.091+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:53:26.099+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:53:26.099+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:53:26.128+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:53:26.219+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:53:26.219+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:53:26.320+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:53:26.319+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:53:26.354+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.277 seconds
+[2024-09-20T14:53:57.293+0000] {processor.py:186} INFO - Started process (PID=5323) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:53:57.294+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:53:57.297+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:53:57.297+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:53:57.310+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:53:57.340+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:53:57.340+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:53:57.360+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:53:57.360+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:53:57.369+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.084 seconds
+[2024-09-20T14:54:27.705+0000] {processor.py:186} INFO - Started process (PID=5387) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:54:27.710+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:54:27.714+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:54:27.714+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:54:27.734+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:54:27.766+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:54:27.766+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:54:27.788+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:54:27.788+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:54:27.807+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.126 seconds
+[2024-09-20T14:54:58.743+0000] {processor.py:186} INFO - Started process (PID=5451) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:54:58.746+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:54:58.750+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:54:58.750+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:54:58.767+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:54:58.802+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:54:58.801+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:54:58.822+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:54:58.822+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:54:58.834+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.111 seconds
+[2024-09-20T14:55:29.749+0000] {processor.py:186} INFO - Started process (PID=5515) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:55:29.754+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:55:29.762+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:55:29.762+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:55:29.779+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:55:29.818+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:55:29.817+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:55:29.839+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:55:29.839+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:55:29.854+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.124 seconds
+[2024-09-20T14:56:00.709+0000] {processor.py:186} INFO - Started process (PID=5579) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:56:00.712+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:56:00.716+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:56:00.716+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:56:00.732+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:56:00.768+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:56:00.768+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:56:00.799+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:56:00.799+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:56:00.812+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.121 seconds
+[2024-09-20T14:56:31.759+0000] {processor.py:186} INFO - Started process (PID=5643) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:56:31.762+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:56:31.766+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:56:31.766+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:56:31.783+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:56:31.832+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:56:31.832+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:56:31.853+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:56:31.853+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:56:31.866+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.119 seconds
+[2024-09-20T14:57:02.729+0000] {processor.py:186} INFO - Started process (PID=5707) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:57:02.734+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:57:02.738+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:57:02.738+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:57:02.757+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:57:02.795+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:57:02.795+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:57:02.820+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:57:02.820+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:57:02.835+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.142 seconds
+[2024-09-20T14:57:33.889+0000] {processor.py:186} INFO - Started process (PID=5771) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:57:33.894+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:57:33.898+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:57:33.898+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:57:33.919+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:57:33.955+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:57:33.955+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:57:33.976+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:57:33.976+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:57:33.991+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.137 seconds
+[2024-09-20T14:58:04.997+0000] {processor.py:186} INFO - Started process (PID=5835) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:58:05.000+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:58:05.004+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:58:05.003+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:58:05.023+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:58:05.058+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:58:05.058+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:58:05.080+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:58:05.080+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:58:05.097+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.130 seconds
+[2024-09-20T14:58:35.193+0000] {processor.py:186} INFO - Started process (PID=5899) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:58:35.203+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:58:35.211+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:58:35.211+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:58:35.228+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:58:35.266+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:58:35.265+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:58:35.298+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:58:35.298+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:58:35.314+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.140 seconds
+[2024-09-20T14:59:05.852+0000] {processor.py:186} INFO - Started process (PID=5963) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:59:05.858+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:59:05.866+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:59:05.866+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:59:05.884+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:59:05.921+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:59:05.921+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:59:05.941+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:59:05.941+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:59:05.966+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.125 seconds
+[2024-09-20T14:59:36.866+0000] {processor.py:186} INFO - Started process (PID=6027) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:59:36.872+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T14:59:36.875+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:59:36.875+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:59:36.890+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T14:59:36.925+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:59:36.925+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T14:59:36.947+0000] {logging_mixin.py:190} INFO - [2024-09-20T14:59:36.947+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T14:59:36.963+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.131 seconds
+[2024-09-20T15:00:07.147+0000] {processor.py:186} INFO - Started process (PID=6091) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:00:07.155+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:00:07.162+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:00:07.161+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:00:07.189+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:00:07.216+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:00:07.216+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:00:07.249+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:00:07.249+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:00:07.270+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.142 seconds
+[2024-09-20T15:00:37.417+0000] {processor.py:186} INFO - Started process (PID=6155) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:00:37.421+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:00:37.428+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:00:37.427+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:00:37.455+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:00:37.489+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:00:37.489+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:00:37.518+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:00:37.518+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:00:37.533+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.132 seconds
+[2024-09-20T15:01:07.832+0000] {processor.py:186} INFO - Started process (PID=6219) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:01:07.840+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:01:07.848+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:01:07.848+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:01:07.867+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:01:07.903+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:01:07.903+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:01:07.924+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:01:07.924+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:01:07.948+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.134 seconds
+[2024-09-20T15:01:38.879+0000] {processor.py:186} INFO - Started process (PID=6283) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:01:38.883+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:01:38.888+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:01:38.888+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:01:38.916+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:01:38.948+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:01:38.948+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:01:38.979+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:01:38.979+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:01:38.996+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.149 seconds
+[2024-09-20T15:02:09.800+0000] {processor.py:186} INFO - Started process (PID=6347) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:02:09.806+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:02:09.815+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:02:09.814+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:02:09.835+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:02:09.869+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:02:09.869+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:02:09.888+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:02:09.888+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:02:09.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.121 seconds
+[2024-09-20T15:02:40.726+0000] {processor.py:186} INFO - Started process (PID=6411) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:02:40.729+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:02:40.735+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:02:40.735+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:02:40.750+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:02:40.795+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:02:40.795+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:02:40.826+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:02:40.826+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:02:40.841+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.131 seconds
+[2024-09-20T15:03:11.818+0000] {processor.py:186} INFO - Started process (PID=6475) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:03:11.820+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:03:11.834+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:03:11.829+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:03:11.849+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:03:11.903+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:03:11.903+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:03:11.928+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:03:11.928+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:03:11.948+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.146 seconds
+[2024-09-20T15:03:42.898+0000] {processor.py:186} INFO - Started process (PID=6546) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:03:42.901+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:03:42.913+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:03:42.912+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:03:42.931+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:03:42.970+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:03:42.970+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:03:43.000+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:03:43.000+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:03:43.015+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.136 seconds
+[2024-09-20T15:04:13.868+0000] {processor.py:186} INFO - Started process (PID=6627) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:04:13.874+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:04:13.880+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:04:13.879+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:04:13.902+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:04:13.943+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:04:13.943+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:04:13.978+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:04:13.978+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:04:14.012+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.168 seconds
+[2024-09-20T15:04:45.100+0000] {processor.py:186} INFO - Started process (PID=6701) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:04:45.105+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:04:45.114+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:04:45.114+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:04:45.135+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:04:45.180+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:04:45.180+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:04:45.231+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:04:45.231+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:04:45.262+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.189 seconds
+[2024-09-20T15:05:15.542+0000] {processor.py:186} INFO - Started process (PID=6765) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:05:15.548+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:05:15.554+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:05:15.554+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:05:15.567+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:05:15.604+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:05:15.604+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:05:15.626+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:05:15.626+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:05:15.649+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.119 seconds
+[2024-09-20T15:05:46.171+0000] {processor.py:186} INFO - Started process (PID=6829) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:05:46.176+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:05:46.181+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:05:46.180+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:05:46.203+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:05:46.247+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:05:46.247+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:05:46.294+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:05:46.294+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:05:46.320+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.178 seconds
+[2024-09-20T15:06:17.076+0000] {processor.py:186} INFO - Started process (PID=6899) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:06:17.083+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:06:17.087+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:06:17.087+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:06:17.104+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:06:17.147+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:06:17.147+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:06:17.191+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:06:17.191+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:06:17.229+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.173 seconds
+[2024-09-20T15:06:47.332+0000] {processor.py:186} INFO - Started process (PID=6963) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:06:47.335+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:06:47.340+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:06:47.340+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:06:47.354+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:06:47.383+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:06:47.383+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:06:47.401+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:06:47.401+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:06:47.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.097 seconds
+[2024-09-20T15:07:18.172+0000] {processor.py:186} INFO - Started process (PID=7038) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:07:18.179+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:07:18.188+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:07:18.187+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:07:18.202+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:07:18.234+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:07:18.234+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:07:18.261+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:07:18.261+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:07:18.281+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.120 seconds
+[2024-09-20T15:07:49.064+0000] {processor.py:186} INFO - Started process (PID=7102) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:07:49.067+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:07:49.073+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:07:49.072+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:07:49.087+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:07:49.124+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:07:49.124+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:07:49.151+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:07:49.151+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:07:49.170+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.122 seconds
+[2024-09-20T15:08:20.050+0000] {processor.py:186} INFO - Started process (PID=7166) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:08:20.054+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:08:20.059+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:08:20.059+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:08:20.079+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:08:20.102+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:08:20.102+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:08:20.119+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:08:20.119+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:08:20.138+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.103 seconds
+[2024-09-20T15:08:51.092+0000] {processor.py:186} INFO - Started process (PID=7240) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:08:51.094+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:08:51.100+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:08:51.100+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:08:51.116+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:08:51.146+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:08:51.146+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:08:51.184+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:08:51.183+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:08:51.197+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.119 seconds
+[2024-09-20T15:10:25.627+0000] {processor.py:186} INFO - Started process (PID=50) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:10:25.633+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:10:25.652+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:10:25.649+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:10:25.744+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:10:25.825+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:10:25.825+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:10:25.880+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:10:25.879+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:10:25.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.305 seconds
+[2024-09-20T15:10:56.841+0000] {processor.py:186} INFO - Started process (PID=114) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:10:56.845+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:10:56.848+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:10:56.848+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:10:56.874+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:10:56.916+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:10:56.916+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:10:56.951+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:10:56.951+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:10:56.971+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.138 seconds
+[2024-09-20T15:11:27.806+0000] {processor.py:186} INFO - Started process (PID=178) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:11:27.809+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:11:27.820+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:11:27.819+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:11:27.842+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:11:27.876+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:11:27.876+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:11:27.894+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:11:27.894+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:11:27.909+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.127 seconds
+[2024-09-20T15:11:58.529+0000] {processor.py:186} INFO - Started process (PID=242) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:11:58.532+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:11:58.537+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:11:58.537+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:11:58.550+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:11:58.586+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:11:58.586+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:11:58.606+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:11:58.606+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:11:58.618+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.097 seconds
+[2024-09-20T15:12:28.857+0000] {processor.py:186} INFO - Started process (PID=306) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:12:28.859+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:12:28.864+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:12:28.864+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:12:28.877+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:12:28.897+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:12:28.897+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:12:28.919+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:12:28.919+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:12:28.941+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.095 seconds
+[2024-09-20T15:12:30.602+0000] {processor.py:186} INFO - Started process (PID=320) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:12:30.603+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:12:30.605+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:12:30.604+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:12:30.627+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:12:30.618+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args = default_args,
+                   ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T15:12:30.630+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:12:30.661+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.062 seconds
+[2024-09-20T15:13:01.101+0000] {processor.py:186} INFO - Started process (PID=378) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:13:01.109+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:13:01.111+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:13:01.111+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:13:01.125+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:13:01.121+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args = default_args,
+                   ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T15:13:01.127+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:13:01.140+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.046 seconds
+[2024-09-20T15:13:31.467+0000] {processor.py:186} INFO - Started process (PID=442) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:13:31.469+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:13:31.473+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:13:31.473+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:13:31.483+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:13:31.480+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args = default_args,
+                   ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T15:13:31.487+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:13:31.540+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.093 seconds
+[2024-09-20T15:14:01.756+0000] {processor.py:186} INFO - Started process (PID=506) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:01.756+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:14:01.760+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:14:01.760+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:01.767+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:14:01.765+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 8, in <module>
+    default_args = default_args,
+                   ^^^^^^^^^^^^
+NameError: name 'default_args' is not defined
+[2024-09-20T15:14:01.769+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:01.782+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.030 seconds
+[2024-09-20T15:14:26.356+0000] {processor.py:186} INFO - Started process (PID=563) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:26.359+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:14:26.369+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:14:26.365+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:26.379+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:14:26.377+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 7
+    dag_id="tecnica_postgres"
+           ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2024-09-20T15:14:26.379+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:26.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.070 seconds
+[2024-09-20T15:14:56.638+0000] {processor.py:186} INFO - Started process (PID=627) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:56.640+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:14:56.642+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:14:56.641+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:56.649+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:14:56.647+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 7
+    dag_id="tecnica_postgres"
+           ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2024-09-20T15:14:56.649+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:14:56.667+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.039 seconds
+[2024-09-20T15:15:27.433+0000] {processor.py:186} INFO - Started process (PID=691) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:15:27.441+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:15:27.446+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:15:27.444+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:15:27.453+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:15:27.451+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 7
+    dag_id="tecnica_postgres"
+           ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2024-09-20T15:15:27.459+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:15:27.489+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.071 seconds
+[2024-09-20T15:15:57.571+0000] {processor.py:186} INFO - Started process (PID=755) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:15:57.573+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:15:57.574+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:15:57.574+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:15:57.579+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:15:57.578+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 7
+    dag_id="tecnica_postgres"
+           ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2024-09-20T15:15:57.580+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:15:57.613+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.053 seconds
+[2024-09-20T15:16:27.736+0000] {processor.py:186} INFO - Started process (PID=819) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:16:27.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:16:27.740+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:16:27.740+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:16:27.745+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:16:27.744+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/tecnica_postgres.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/tecnica_postgres.py", line 7
+    dag_id="tecnica_postgres"
+           ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2024-09-20T15:16:27.746+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:16:27.767+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.059 seconds
+[2024-09-20T15:16:33.841+0000] {processor.py:186} INFO - Started process (PID=820) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:16:33.843+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:16:33.844+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:16:33.844+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:16:33.872+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:16:33.968+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:16:33.968+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:16:33.979+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:16:33.979+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:16:33.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.162 seconds
+[2024-09-20T15:17:04.202+0000] {processor.py:186} INFO - Started process (PID=884) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:17:04.205+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:17:04.207+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:17:04.206+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:17:04.222+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:17:04.244+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:17:04.244+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:17:04.262+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:17:04.262+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:17:04.276+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.083 seconds
+[2024-09-20T15:17:34.396+0000] {processor.py:186} INFO - Started process (PID=948) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:17:34.399+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:17:34.400+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:17:34.400+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:17:34.425+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:17:34.451+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:17:34.451+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:17:34.467+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:17:34.467+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:17:34.484+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.096 seconds
+[2024-09-20T15:18:04.569+0000] {processor.py:186} INFO - Started process (PID=1012) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:18:04.571+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:18:04.573+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:18:04.573+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:18:04.587+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:18:04.620+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:18:04.620+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:18:04.637+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:18:04.637+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:18:04.660+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.099 seconds
+[2024-09-20T15:18:34.910+0000] {processor.py:186} INFO - Started process (PID=1076) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:18:34.912+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:18:34.913+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:18:34.913+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:18:34.935+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:18:34.952+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:18:34.952+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:18:34.969+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:18:34.968+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:18:34.989+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.088 seconds
+[2024-09-20T15:19:05.242+0000] {processor.py:186} INFO - Started process (PID=1140) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:19:05.245+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:19:05.247+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:19:05.247+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:19:05.263+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:19:05.305+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:19:05.305+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:19:05.324+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:19:05.324+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:19:05.338+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.103 seconds
+[2024-09-20T15:19:35.930+0000] {processor.py:186} INFO - Started process (PID=1204) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:19:35.934+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:19:35.938+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:19:35.937+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:19:35.961+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:19:35.984+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:19:35.984+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:19:36.010+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:19:36.010+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:19:36.024+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.102 seconds
+[2024-09-20T15:20:06.399+0000] {processor.py:186} INFO - Started process (PID=1268) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:20:06.404+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:20:06.408+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:20:06.407+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:20:06.422+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:20:06.437+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:20:06.437+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:20:06.463+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:20:06.463+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:20:06.476+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.082 seconds
+[2024-09-20T15:20:37.528+0000] {processor.py:186} INFO - Started process (PID=1332) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:20:37.533+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:20:37.535+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:20:37.535+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:20:37.553+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:20:37.583+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:20:37.583+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:20:37.616+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:20:37.616+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:20:37.635+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.130 seconds
+[2024-09-20T15:21:08.406+0000] {processor.py:186} INFO - Started process (PID=1396) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:21:08.412+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:21:08.413+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:21:08.413+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:21:08.433+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:21:08.468+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:21:08.468+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:21:08.493+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:21:08.493+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:21:08.515+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.116 seconds
+[2024-09-20T15:21:38.712+0000] {processor.py:186} INFO - Started process (PID=1460) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:21:38.716+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:21:38.717+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:21:38.716+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:21:38.740+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:21:38.768+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:21:38.768+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:21:38.793+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:21:38.792+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:21:38.806+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.102 seconds
+[2024-09-20T15:22:09.042+0000] {processor.py:186} INFO - Started process (PID=1524) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:22:09.045+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:22:09.046+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:22:09.046+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:22:09.065+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:22:09.105+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:22:09.105+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:22:09.208+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:22:09.208+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:22:09.256+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.227 seconds
+[2024-09-20T15:22:40.019+0000] {processor.py:186} INFO - Started process (PID=1588) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:22:40.024+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:22:40.027+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:22:40.026+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:22:40.045+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:22:40.080+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:22:40.080+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:22:40.102+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:22:40.102+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:22:40.124+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.129 seconds
+[2024-09-20T15:23:10.282+0000] {processor.py:186} INFO - Started process (PID=1652) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:23:10.288+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:23:10.291+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:23:10.291+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:23:10.311+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:23:10.366+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:23:10.366+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:23:10.399+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:23:10.399+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:23:10.423+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.156 seconds
+[2024-09-20T15:23:41.258+0000] {processor.py:186} INFO - Started process (PID=1716) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:23:41.261+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:23:41.263+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:23:41.263+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:23:41.286+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:23:41.329+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:23:41.329+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:23:41.360+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:23:41.360+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:23:41.376+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.137 seconds
+[2024-09-20T15:24:11.999+0000] {processor.py:186} INFO - Started process (PID=1780) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:24:12.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:24:12.004+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:24:12.003+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:24:12.040+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:24:12.073+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:24:12.073+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:24:12.092+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:24:12.092+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:24:12.108+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.118 seconds
+[2024-09-20T15:24:42.826+0000] {processor.py:186} INFO - Started process (PID=1844) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:24:42.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:24:42.829+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:24:42.828+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:24:42.859+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:24:42.893+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:24:42.893+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:24:42.927+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:24:42.927+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:24:42.941+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.128 seconds
+[2024-09-20T15:25:13.473+0000] {processor.py:186} INFO - Started process (PID=1908) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:25:13.475+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:25:13.476+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:25:13.476+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:25:13.504+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:25:13.539+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:25:13.539+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:25:13.561+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:25:13.561+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:25:13.575+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.115 seconds
+[2024-09-20T15:25:44.012+0000] {processor.py:186} INFO - Started process (PID=1972) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:25:44.016+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:25:44.017+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:25:44.017+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:25:44.032+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:25:44.067+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:25:44.067+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:25:44.088+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:25:44.088+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:25:44.101+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.110 seconds
+[2024-09-20T15:26:15.090+0000] {processor.py:186} INFO - Started process (PID=2035) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:26:15.094+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:26:15.096+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:26:15.096+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:26:15.115+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:26:15.159+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:26:15.159+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:26:15.179+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:26:15.179+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:26:15.193+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.127 seconds
+[2024-09-20T15:26:45.931+0000] {processor.py:186} INFO - Started process (PID=2099) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:26:45.946+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:26:45.953+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:26:45.952+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:26:46.020+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:26:46.120+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:26:46.120+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:26:46.227+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:26:46.227+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:26:46.277+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.366 seconds
+[2024-09-20T15:27:16.641+0000] {processor.py:186} INFO - Started process (PID=2163) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:27:16.646+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:27:16.649+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:27:16.648+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:27:16.686+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:27:16.727+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:27:16.727+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:27:16.751+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:27:16.751+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:27:16.774+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.143 seconds
+[2024-09-20T15:27:47.434+0000] {processor.py:186} INFO - Started process (PID=2227) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:27:47.435+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:27:47.441+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:27:47.441+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:27:47.470+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:27:47.516+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:27:47.516+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:27:47.537+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:27:47.537+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:27:47.551+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.124 seconds
+[2024-09-20T15:28:18.246+0000] {processor.py:186} INFO - Started process (PID=2291) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:28:18.252+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:28:18.256+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:28:18.255+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:28:18.281+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:28:18.318+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:28:18.318+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:28:18.339+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:28:18.339+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:28:18.361+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.124 seconds
+[2024-09-20T15:28:48.437+0000] {processor.py:186} INFO - Started process (PID=2356) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:28:48.442+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:28:48.444+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:28:48.444+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:28:48.467+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:28:48.498+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:28:48.498+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:28:48.517+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:28:48.517+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:28:48.530+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.110 seconds
+[2024-09-20T15:29:19.061+0000] {processor.py:186} INFO - Started process (PID=2420) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:29:19.065+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:29:19.071+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:29:19.070+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:29:19.113+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:29:19.176+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:29:19.176+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:29:19.206+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:29:19.206+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:29:19.229+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.187 seconds
+[2024-09-20T15:29:50.231+0000] {processor.py:186} INFO - Started process (PID=2484) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:29:50.236+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:29:50.238+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:29:50.238+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:29:50.271+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:29:50.299+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:29:50.298+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:29:50.325+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:29:50.325+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:29:50.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.122 seconds
+[2024-09-20T15:30:21.017+0000] {processor.py:186} INFO - Started process (PID=2548) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:30:21.020+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:30:21.021+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:30:21.020+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:30:21.044+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:30:21.083+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:30:21.083+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:30:21.102+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:30:21.102+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:30:21.125+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.129 seconds
+[2024-09-20T15:30:51.516+0000] {processor.py:186} INFO - Started process (PID=2612) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:30:51.520+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:30:51.521+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:30:51.521+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:30:51.542+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:30:51.574+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:30:51.574+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:30:51.592+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:30:51.592+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:30:51.611+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.111 seconds
+[2024-09-20T15:31:21.687+0000] {processor.py:186} INFO - Started process (PID=2676) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:31:21.689+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:31:21.691+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:31:21.691+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:31:21.713+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:31:21.751+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:31:21.751+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:31:21.784+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:31:21.784+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:31:21.799+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.132 seconds
+[2024-09-20T15:31:52.612+0000] {processor.py:186} INFO - Started process (PID=2740) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:31:52.616+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:31:52.618+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:31:52.617+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:31:52.650+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:31:52.677+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:31:52.677+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:31:52.697+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:31:52.697+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:31:52.716+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.131 seconds
+[2024-09-20T15:32:23.448+0000] {processor.py:186} INFO - Started process (PID=2804) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:32:23.452+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:32:23.455+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:32:23.455+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:32:23.476+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:32:23.510+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:32:23.510+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:32:23.537+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:32:23.537+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:32:23.552+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.128 seconds
+[2024-09-20T15:32:54.312+0000] {processor.py:186} INFO - Started process (PID=2868) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:32:54.315+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:32:54.319+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:32:54.317+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:32:54.344+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:32:54.372+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:32:54.372+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:32:54.993+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:32:54.991+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:32:55.063+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.762 seconds
+[2024-09-20T15:33:26.103+0000] {processor.py:186} INFO - Started process (PID=2932) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:33:26.108+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:33:26.110+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:33:26.110+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:33:26.130+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:33:26.162+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:33:26.162+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:33:26.187+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:33:26.186+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:33:26.227+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.139 seconds
+[2024-09-20T15:33:56.281+0000] {processor.py:186} INFO - Started process (PID=2996) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:33:56.285+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:33:56.290+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:33:56.289+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:33:56.317+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:33:56.361+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:33:56.360+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:33:56.400+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:33:56.400+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:33:56.418+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.143 seconds
+[2024-09-20T15:34:27.120+0000] {processor.py:186} INFO - Started process (PID=3060) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:34:27.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:34:27.128+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:34:27.127+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:34:27.152+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:34:27.189+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:34:27.189+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:34:27.211+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:34:27.210+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:34:27.228+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.120 seconds
+[2024-09-20T15:34:57.662+0000] {processor.py:186} INFO - Started process (PID=3124) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:34:57.666+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:34:57.669+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:34:57.669+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:34:57.697+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:34:58.005+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:34:58.005+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:34:58.017+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:34:58.017+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:34:58.027+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.380 seconds
+[2024-09-20T15:35:29.119+0000] {processor.py:186} INFO - Started process (PID=3188) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:35:29.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:35:29.124+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:35:29.124+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:35:29.147+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:35:29.175+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:35:29.175+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:35:29.205+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:35:29.205+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:35:29.218+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.111 seconds
+[2024-09-20T15:35:59.661+0000] {processor.py:186} INFO - Started process (PID=3252) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:35:59.667+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:35:59.670+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:35:59.670+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:35:59.711+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:35:59.788+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:35:59.787+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:35:59.825+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:35:59.824+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:35:59.838+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.212 seconds
+[2024-09-20T15:36:30.829+0000] {processor.py:186} INFO - Started process (PID=3316) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:36:30.836+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:36:30.845+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:36:30.842+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:36:30.881+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:36:30.933+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:36:30.933+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:36:30.965+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:36:30.965+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:36:31.000+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.197 seconds
+[2024-09-20T15:37:01.198+0000] {processor.py:186} INFO - Started process (PID=3381) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:37:01.202+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:37:01.204+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:37:01.203+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:37:01.226+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:37:01.254+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:37:01.254+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:37:01.282+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:37:01.282+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:37:01.294+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.108 seconds
+[2024-09-20T15:37:31.720+0000] {processor.py:186} INFO - Started process (PID=3445) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:37:31.726+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:37:31.727+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:37:31.727+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:37:31.749+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:37:31.780+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:37:31.780+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:37:31.799+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:37:31.799+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:37:31.812+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.109 seconds
+[2024-09-20T15:38:02.361+0000] {processor.py:186} INFO - Started process (PID=3509) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:38:02.365+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:38:02.367+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:38:02.366+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:38:02.386+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:38:02.434+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:38:02.434+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:38:02.460+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:38:02.459+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:38:02.474+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.127 seconds
+[2024-09-20T15:38:33.290+0000] {processor.py:186} INFO - Started process (PID=3579) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:38:33.294+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:38:33.304+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:38:33.303+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:38:33.320+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:38:33.347+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:38:33.347+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:38:33.373+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:38:33.373+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:38:33.385+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.105 seconds
+[2024-09-20T15:39:03.584+0000] {processor.py:186} INFO - Started process (PID=3643) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:39:03.590+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:39:03.595+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:39:03.593+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:39:03.615+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:39:03.657+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:39:03.657+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:39:03.688+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:39:03.687+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:39:03.708+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.139 seconds
+[2024-09-20T15:39:34.287+0000] {processor.py:186} INFO - Started process (PID=3707) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:39:34.289+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:39:34.292+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:39:34.291+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:39:34.314+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:39:34.349+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:39:34.349+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:39:34.369+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:39:34.369+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:39:34.388+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.116 seconds
+[2024-09-20T15:40:04.662+0000] {processor.py:186} INFO - Started process (PID=3771) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:40:04.664+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:40:04.666+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:40:04.665+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:40:04.680+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:40:04.708+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:40:04.708+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:40:04.725+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:40:04.725+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:40:04.737+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.093 seconds
+[2024-09-20T15:40:35.031+0000] {processor.py:186} INFO - Started process (PID=3835) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:40:35.033+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:40:35.047+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:40:35.046+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:40:35.068+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:40:35.111+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:40:35.111+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:40:35.139+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:40:35.138+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:40:35.160+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.146 seconds
+[2024-09-20T15:41:05.352+0000] {processor.py:186} INFO - Started process (PID=3899) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:41:05.359+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:41:05.364+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:41:05.363+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:41:05.379+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:41:05.401+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:41:05.400+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:41:05.420+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:41:05.420+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:41:05.442+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.114 seconds
+[2024-09-20T15:41:35.893+0000] {processor.py:186} INFO - Started process (PID=3963) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:41:35.899+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:41:35.901+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:41:35.901+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:41:35.923+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:41:35.956+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:41:35.956+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:41:35.974+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:41:35.974+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:41:35.986+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.109 seconds
+[2024-09-20T15:42:06.152+0000] {processor.py:186} INFO - Started process (PID=4027) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:42:06.155+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:42:06.156+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:42:06.156+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:42:06.171+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:42:06.197+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:42:06.197+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:42:06.215+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:42:06.215+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:42:06.226+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.086 seconds
+[2024-09-20T15:42:36.393+0000] {processor.py:186} INFO - Started process (PID=4091) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:42:36.397+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:42:36.399+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:42:36.398+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:42:36.420+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:42:36.456+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:42:36.456+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:42:36.477+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:42:36.477+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:42:36.491+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.114 seconds
+[2024-09-20T15:43:07.234+0000] {processor.py:186} INFO - Started process (PID=4155) to work on /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:43:07.237+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/tecnica_postgres.py for tasks to queue
+[2024-09-20T15:43:07.242+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:43:07.241+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:43:07.260+0000] {processor.py:925} INFO - DAG(s) 'tecnica_postgres' retrieved from /opt/airflow/dags/tecnica_postgres.py
+[2024-09-20T15:43:07.290+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:43:07.290+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-20T15:43:07.311+0000] {logging_mixin.py:190} INFO - [2024-09-20T15:43:07.311+0000] {dag.py:4138} INFO - Setting next_dagrun for tecnica_postgres to 2024-09-20 00:00:00+00:00, run_after=2024-09-21 00:00:00+00:00
+[2024-09-20T15:43:07.326+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/tecnica_postgres.py took 0.111 seconds

@@ -1,0 +1,139 @@
+[2024-09-20T15:22:48.922+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-20T15:22:48.960+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tecnica_postgres.Crear_Tabla manual__2024-09-20T15:22:40.155653+00:00 [queued]>
+[2024-09-20T15:22:48.971+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tecnica_postgres.Crear_Tabla manual__2024-09-20T15:22:40.155653+00:00 [queued]>
+[2024-09-20T15:22:48.971+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 4
+[2024-09-20T15:22:48.984+0000] {taskinstance.py:2879} INFO - Executing <Task(PostgresOperator): Crear_Tabla> on 2024-09-20 15:22:40.155653+00:00
+[2024-09-20T15:22:49.007+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=217) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-09-20T15:22:49.011+0000] {standard_task_runner.py:72} INFO - Started process 226 to run task
+[2024-09-20T15:22:49.013+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'tecnica_postgres', 'Crear_Tabla', 'manual__2024-09-20T15:22:40.155653+00:00', '--job-id', '29', '--raw', '--subdir', 'DAGS_FOLDER/tecnica_postgres.py', '--cfg-path', '/tmp/tmp9zmf031l']
+[2024-09-20T15:22:49.016+0000] {standard_task_runner.py:105} INFO - Job 29: Subtask Crear_Tabla
+[2024-09-20T15:22:49.279+0000] {task_command.py:467} INFO - Running <TaskInstance: tecnica_postgres.Crear_Tabla manual__2024-09-20T15:22:40.155653+00:00 [running]> on host ce23a4eb4cec
+[2024-09-20T15:22:49.682+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='tecnica_postgres' AIRFLOW_CTX_TASK_ID='Crear_Tabla' AIRFLOW_CTX_EXECUTION_DATE='2024-09-20T15:22:40.155653+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-20T15:22:40.155653+00:00'
+[2024-09-20T15:22:49.690+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-09-20T15:22:49.691+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-09-20T15:22:49.691+0000] {logging_mixin.py:190} INFO - Current task name:Crear_Tabla state:running start_date:2024-09-20 15:22:48.961136+00:00
+[2024-09-20T15:22:49.695+0000] {logging_mixin.py:190} INFO - Dag name:tecnica_postgres and current dag run status:running
+[2024-09-20T15:22:49.696+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-20T15:22:49.696+0000] {sql.py:282} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS tecnica_ml(
+                id VARCHAR(30),
+                site_id VARCHAR(30),
+                title VARCHAR(50),
+                price VARCHAR(10),
+                sold_quantity VARCHAR(20),
+                thumbnail VARCHAR(50),
+                created_date VARCHAR(8),
+                primary key(id,created_date)
+            )
+[2024-09-20T15:22:49.710+0000] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2024-09-20T15:22:49.768+0000] {base.py:84} INFO - Retrieving connection 'postgres_localhost'
+[2024-09-20T15:22:49.975+0000] {taskinstance.py:3301} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/operators/sql.py", line 288, in execute
+    output = hook.run(
+             ^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 452, in run
+    with self._create_autocommit_connection(autocommit) as conn:
+  File "/usr/local/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 574, in _create_autocommit_connection
+    with closing(self.get_conn()) as conn:
+                 ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/postgres/hooks/postgres.py", line 176, in get_conn
+    self.conn = psycopg2.connect(**conn_args)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  database "test" does not exist
+
+[2024-09-20T15:22:50.046+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2024-09-20T15:22:50.047+0000] {logging_mixin.py:190} INFO - Task start:2024-09-20 15:22:48.961136+00:00 end:2024-09-20 15:22:50.045055+00:00 duration:1.083919
+[2024-09-20T15:22:50.047+0000] {logging_mixin.py:190} INFO - Task:<Task(PostgresOperator): Crear_Tabla> dag:<DAG: tecnica_postgres> dagrun:<DagRun tecnica_postgres @ 2024-09-20 15:22:40.155653+00:00: manual__2024-09-20T15:22:40.155653+00:00, state:running, queued_at: 2024-09-20 15:22:40.199782+00:00. externally triggered: True>
+[2024-09-20T15:22:50.048+0000] {logging_mixin.py:190} INFO - Failure caused by connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  database "test" does not exist
+[2024-09-20T15:22:50.048+0000] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=tecnica_postgres, task_id=Crear_Tabla, run_id=manual__2024-09-20T15:22:40.155653+00:00, execution_date=20240920T152240, start_date=20240920T152248, end_date=20240920T152250
+[2024-09-20T15:22:50.109+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-20T15:22:50.111+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 29 for task Crear_Tabla (connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  database "test" does not exist
+; 226)
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 2995, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3149, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3173, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/operators/sql.py", line 288, in execute
+    output = hook.run(
+             ^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 452, in run
+    with self._create_autocommit_connection(autocommit) as conn:
+  File "/usr/local/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/common/sql/hooks/sql.py", line 574, in _create_autocommit_connection
+    with closing(self.get_conn()) as conn:
+                 ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/postgres/hooks/postgres.py", line 176, in get_conn
+    self.conn = psycopg2.connect(**conn_args)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "host.docker.internal" (192.168.65.254), port 5432 failed: FATAL:  database "test" does not exist
+
+[2024-09-20T15:22:50.153+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 1
+[2024-09-20T15:22:50.244+0000] {taskinstance.py:3891} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-20T15:22:50.246+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

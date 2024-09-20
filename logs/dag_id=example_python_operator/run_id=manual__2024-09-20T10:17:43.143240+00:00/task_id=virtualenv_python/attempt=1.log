@@ -1,0 +1,57 @@
+[2024-09-20T10:18:03.656+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-20T10:18:03.666+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: example_python_operator.virtualenv_python manual__2024-09-20T10:17:43.143240+00:00 [queued]>
+[2024-09-20T10:18:03.670+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: example_python_operator.virtualenv_python manual__2024-09-20T10:17:43.143240+00:00 [queued]>
+[2024-09-20T10:18:03.671+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 1
+[2024-09-20T10:18:03.676+0000] {taskinstance.py:2879} INFO - Executing <Task(PythonVirtualenvOperator): virtualenv_python> on 2024-09-20 10:17:43.143240+00:00
+[2024-09-20T10:18:03.681+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=174) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-09-20T10:18:03.682+0000] {standard_task_runner.py:72} INFO - Started process 176 to run task
+[2024-09-20T10:18:03.683+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'example_python_operator', 'virtualenv_python', 'manual__2024-09-20T10:17:43.143240+00:00', '--job-id', '22', '--raw', '--subdir', '/home/***/.local/lib/python3.12/site-packages/***/example_dags/example_python_operator.py', '--cfg-path', '/tmp/tmpqaodowwd']
+[2024-09-20T10:18:03.683+0000] {standard_task_runner.py:105} INFO - Job 22: Subtask virtualenv_python
+[2024-09-20T10:18:03.707+0000] {task_command.py:467} INFO - Running <TaskInstance: example_python_operator.virtualenv_python manual__2024-09-20T10:17:43.143240+00:00 [running]> on host e7275b2d8499
+[2024-09-20T10:18:03.738+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='example_python_operator' AIRFLOW_CTX_TASK_ID='virtualenv_python' AIRFLOW_CTX_EXECUTION_DATE='2024-09-20T10:17:43.143240+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-20T10:17:43.143240+00:00'
+[2024-09-20T10:18:03.741+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-09-20T10:18:03.741+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-09-20T10:18:03.741+0000] {logging_mixin.py:190} INFO - Current task name:virtualenv_python state:running start_date:2024-09-20 10:18:03.666704+00:00
+[2024-09-20T10:18:03.741+0000] {logging_mixin.py:190} INFO - Dag name:example_python_operator and current dag run status:running
+[2024-09-20T10:18:03.742+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-20T10:18:03.742+0000] {baseoperator.py:405} WARNING - PythonVirtualenvOperator.execute cannot be called outside TaskInstance!
+[2024-09-20T10:18:03.743+0000] {process_utils.py:186} INFO - Executing cmd: /home/***/.local/bin/python -m virtualenv /tmp/venvelfwx1cv --python=python
+[2024-09-20T10:18:03.744+0000] {process_utils.py:190} INFO - Output:
+[2024-09-20T10:18:04.564+0000] {process_utils.py:194} INFO - created virtual environment CPython3.12.5.final.0-64 in 341ms
+[2024-09-20T10:18:04.567+0000] {process_utils.py:194} INFO -   creator CPython3Posix(dest=/tmp/venvelfwx1cv, clear=False, no_vcs_ignore=False, global=False)
+[2024-09-20T10:18:04.567+0000] {process_utils.py:194} INFO -   seeder FromAppData(download=False, pip=bundle, via=copy, app_data_dir=/home/***/.local/share/virtualenv)
+[2024-09-20T10:18:04.567+0000] {process_utils.py:194} INFO -     added seed packages: pip==24.1
+[2024-09-20T10:18:04.567+0000] {process_utils.py:194} INFO -   activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+[2024-09-20T10:18:04.583+0000] {process_utils.py:186} INFO - Executing cmd: /tmp/venvelfwx1cv/bin/pip install -r /tmp/venvelfwx1cv/requirements.txt
+[2024-09-20T10:18:04.584+0000] {process_utils.py:190} INFO - Output:
+[2024-09-20T10:18:05.779+0000] {process_utils.py:194} INFO - Collecting colorama==0.4.0 (from -r /tmp/venvelfwx1cv/requirements.txt (line 1))
+[2024-09-20T10:18:05.803+0000] {process_utils.py:194} INFO -   Downloading colorama-0.4.0-py2.py3-none-any.whl.metadata (13 kB)
+[2024-09-20T10:18:05.813+0000] {process_utils.py:194} INFO - Downloading colorama-0.4.0-py2.py3-none-any.whl (21 kB)
+[2024-09-20T10:18:05.834+0000] {process_utils.py:194} INFO - Installing collected packages: colorama
+[2024-09-20T10:18:05.852+0000] {process_utils.py:194} INFO - Successfully installed colorama-0.4.0
+[2024-09-20T10:18:05.902+0000] {process_utils.py:194} INFO - 
+[2024-09-20T10:18:05.902+0000] {process_utils.py:194} INFO - [notice] A new release of pip is available: 24.1 -> 24.2
+[2024-09-20T10:18:05.903+0000] {process_utils.py:194} INFO - [notice] To update, run: python -m pip install --upgrade pip
+[2024-09-20T10:18:05.956+0000] {process_utils.py:186} INFO - Executing cmd: /tmp/venvelfwx1cv/bin/python /tmp/venv-call5jxi4sj6/script.py /tmp/venv-call5jxi4sj6/script.in /tmp/venv-call5jxi4sj6/script.out /tmp/venv-call5jxi4sj6/string_args.txt /tmp/venv-call5jxi4sj6/termination.log
+[2024-09-20T10:18:05.957+0000] {process_utils.py:190} INFO - Output:
+[2024-09-20T10:18:06.012+0000] {process_utils.py:194} INFO - [31msome red text
+[2024-09-20T10:18:06.013+0000] {process_utils.py:194} INFO - [42mand with a green background
+[2024-09-20T10:18:06.013+0000] {process_utils.py:194} INFO - [2mand in dim text
+[2024-09-20T10:18:06.013+0000] {process_utils.py:194} INFO - [0m
+[2024-09-20T10:18:06.013+0000] {process_utils.py:194} INFO - [2mPlease wait...
+[2024-09-20T10:18:07.014+0000] {process_utils.py:194} INFO - [2mPlease wait...
+[2024-09-20T10:18:08.016+0000] {process_utils.py:194} INFO - [2mPlease wait...
+[2024-09-20T10:18:09.017+0000] {process_utils.py:194} INFO - [2mPlease wait...
+[2024-09-20T10:18:10.022+0000] {process_utils.py:194} INFO - Finished
+[2024-09-20T10:18:10.084+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-09-20T10:18:10.100+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-20T10:18:10.100+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=example_python_operator, task_id=virtualenv_python, run_id=manual__2024-09-20T10:17:43.143240+00:00, execution_date=20240920T101743, start_date=20240920T101803, end_date=20240920T101810
+[2024-09-20T10:18:10.118+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-09-20T10:18:10.118+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-09-20T10:18:10.118+0000] {logging_mixin.py:190} INFO - Dag name:example_python_operator queued_at:2024-09-20 10:17:43.156099+00:00
+[2024-09-20T10:18:10.118+0000] {logging_mixin.py:190} INFO - Task hostname:e7275b2d8499 operator:PythonVirtualenvOperator
+[2024-09-20T10:18:10.151+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-20T10:18:10.166+0000] {taskinstance.py:3891} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-20T10:18:10.167+0000] {local_task_job_runner.py:240} INFO - ::endgroup::
